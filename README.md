@@ -1,4 +1,4 @@
-### Olá, eu sou Josias Teixeira. Bem vindo(a) ao meu perfil! 😄
+### Olá, eu sou Josias Carneiro. Bem vindo(a) ao meu perfil! 😄
 
 ### Linguagens preferidas e que mais uso:
 
