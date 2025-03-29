@@ -11,7 +11,7 @@
   <img align="center" alt="Josias-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<br>
+------
 <img  alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiascta&theme=dark" />
 
 
