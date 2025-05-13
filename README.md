@@ -1,4 +1,4 @@
-## Oii, eu sou Josias, programador full stack. Bem vindo(a) ao meu perfil! 
+## Oii, eu sou Josias. Bem vindo(a) ao meu perfil! 
 
 <div style="display: inline_block"><br>
   
